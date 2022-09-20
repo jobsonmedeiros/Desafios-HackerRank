@@ -1,10 +1,8 @@
-![](https://i.imgur.com/xG74tOh.png)
+![Cubos Academy](https://i.imgur.com/xG74tOh.png)
 
 # HackerRank - Exercícios Arrays e Loops
 
-Lista de exercícios disponível em [HackerRank](https://www.hackerrank.com/contests/arrays-e-loops/challenges/abc-100)
-
-## Exercício #02 - Abecedário
+## Exercício #02 - [Abecedário](https://www.hackerrank.com/contests/arrays-e-loops/challenges/abc-100)
 
 Uma brincadeira muito comum entre crianças é o ABC. Nessa brincadeira, uma letra é sorteada a cada rodada e cada criança que está brincando deve escrever uma palvra de uma determinada categoria que comece com a letra que foi sorteada.
 

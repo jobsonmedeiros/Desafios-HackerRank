@@ -1,10 +1,8 @@
-![](https://i.imgur.com/xG74tOh.png)
+![Cubos Academy](https://i.imgur.com/xG74tOh.png)
 
-# HackerRank - Exercícios Arrays e Loops
+# HackerRank - [Exercícios Arrays e Loops]
 
-Lista de exercícios disponível em [HackerRank](https://www.hackerrank.com/contests/arrays-e-loops/challenges/purificacao)
-
-## Exercício #01 - Purificação
+## Exercício #01 - [Purificação](https://www.hackerrank.com/contests/arrays-e-loops/challenges/purificacao)
 
 Você e seus amigos estavam fazendo um projeto da faculdade e encontraram um banco de dados com nomes científicos de animais que poderia ajudá-los, porém os dados estavam corrompidos.
 
