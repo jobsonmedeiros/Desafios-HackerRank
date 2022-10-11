@@ -1,28 +1,28 @@
 ![Cubos Academy](https://i.imgur.com/xG74tOh.png)
 
-# HackerRank - Exercícios de Arrays e Loops
+# HackerRank - Desafios de Lógica - Módulo 1
 
 Lista de exercícios disponível em
-[HackerRank](https://www.hackerrank.com/contests/arrays-e-loops/challenges)
+[HackerRank](https://www.hackerrank.com/contests/desafio-de-logica-modulo-1-b2b-t03-dbe-ifood/challenges)
 
 ## Exercícios (Desafios)
 
-### 1. [Purificação](https://www.hackerrank.com/contests/arrays-e-loops/challenges/purificacao)
+### 1. [Soma dos Elementos](https://www.hackerrank.com/contests/desafio-de-logica-modulo-1-b2b-t03-dbe-ifood/challenges/soma-dos-elementos)
 
-### 2. [Abecedário](https://www.hackerrank.com/contests/arrays-e-loops/challenges/abc-100)
+### 2. [Média Aritimética](https://www.hackerrank.com/contests/desafio-de-logica-modulo-1-b2b-t03-dbe-ifood/challenges/media-aritimetica)
 
-### 3. [Cinco ou mais, um é grátis](https://www.hackerrank.com/contests/arrays-e-loops/challenges/cinco-ou-mais-um-e-gratis)
+### 3. [Números dentro de um intervalo](https://www.hackerrank.com/contests/desafio-de-logica-modulo-1-b2b-t03-dbe-ifood/challenges/numeros-dentro-de-um-intervalo)
 
-### 4. [Carrossel](https://www.hackerrank.com/contests/arrays-e-loops/challenges/carrossel)
+### 4. [Mesa de Poker](https://www.hackerrank.com/contests/desafio-de-logica-modulo-1-b2b-t03-dbe-ifood/challenges/mesa-de-poker)
 
-### 5. [Perda mínima](https://www.hackerrank.com/contests/arrays-e-loops/challenges/perda-minima)
+### 5. [Truco](https://www.hackerrank.com/contests/desafio-de-logica-modulo-1-b2b-t03-dbe-ifood/challenges/truco)
 
-### 6. [Brasil com "P"](https://www.hackerrank.com/contests/arrays-e-loops/challenges/brasil-com-p)
+### 6. [Caçula dos Adultos](https://www.hackerrank.com/contests/desafio-de-logica-modulo-1-b2b-t03-dbe-ifood/challenges/cacula-dos-adultos)
 
-### 7. [Tiro ao Alvo](https://www.hackerrank.com/contests/arrays-e-loops/challenges/tiro-ao-alvo)
+### 7. [Contador de palavras](https://www.hackerrank.com/contests/desafio-de-logica-modulo-1-b2b-t03-dbe-ifood/challenges/contador-de-palavras)
 
-### 8. [Brazilian Storm](https://www.hackerrank.com/contests/arrays-e-loops/challenges/brazilian-storm)
+### 8. [Americano](https://www.hackerrank.com/contests/desafio-de-logica-modulo-1-b2b-t03-dbe-ifood/challenges/americano)
 
-### 9. [Forca](https://www.hackerrank.com/contests/arrays-e-loops/challenges/forca-2)
+### 9. [Promoção!](https://www.hackerrank.com/contests/desafio-de-logica-modulo-1-b2b-t03-dbe-ifood/challenges/promocao)
 
-### 10. [Pontos no campeonato](https://www.hackerrank.com/contests/arrays-e-loops/challenges/pontos-no-campeonato)
+### 10. [Zerinho ou Um](https://www.hackerrank.com/contests/desafio-de-logica-modulo-1-b2b-t03-dbe-ifood/challenges/zerinho-ou-um)
